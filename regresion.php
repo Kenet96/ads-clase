@@ -24,7 +24,7 @@ $yy=$_POST['y'];
 	$b1=$sumapxy/$sumacx;
 	$bo=$promy-$b1*$promx;
 	
-	echo "La ecuacion de regresion es  :"."<br>";
+	echo "La ecuacion de regresion es  :"modificando en ads "<br>";
 	echo "Y=".$bo." + ".$b1." x"."<br>";
 	
 ?>
